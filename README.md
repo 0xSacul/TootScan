@@ -151,7 +151,7 @@ ffmpeg -version
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/tootscan.git
+git clone https://github.com/0xSacul/TootScan
 cd tootscan
 ```
 
@@ -587,9 +587,7 @@ Use responsibly.
 
 ## License
 
-Choose whatever license fits your project.
-
-For a simple permissive open-source release, **MIT** is probably the easiest choice.
+MIT — use it, fork it, improve it, weaponize it responsibly.
 
 ---
 
